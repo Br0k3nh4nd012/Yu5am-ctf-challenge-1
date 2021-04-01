@@ -1,0 +1,21 @@
+.login{
+    width: auto;
+    margin-top: 70px;
+}
+.username{
+    width: 500px;
+    margin: 50px auto;
+    height: 30px;
+}
+.password{
+    width: 500px;
+    height: 30px;
+}
+.loginButton{
+    margin-top: 40px;
+    height: 30px;
+}
+.loginHeader{
+    font-size: xx-large;
+    font-weight: bold;
+}
